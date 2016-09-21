@@ -1,3 +1,9 @@
+firmware-bone (2) stable; urgency=medium
+
+  * Add firmware for QuestCape
+
+ -- David Lechner <david@lechnology.com>  Wed, 21 Sep 2016 15:27:08 -0500
+
 firmware-bone (1) stable; urgency=medium
 
   * Initial release.
